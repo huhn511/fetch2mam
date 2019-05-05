@@ -1,0 +1,5 @@
+{
+    "PROVIDER": "https://nodes.devnet.thetangle.org:443",
+    "URL": "http://raspberrypi.local:5000/data",
+    "APP_PORT": 3000
+}
